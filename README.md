@@ -1,5 +1,1 @@
-this is a sytem that`s allaw to you to park in by 2 wayes 
-first is best fit 
-second is best fit 
-and allow to park out 
-then calc the total cost
+System that allow you to park in by 2 ways , first is best fit , second is best fit and allow to park out then calculate the total cost . It's include UML diagram , Use case , Class diagram, Sequence diagram, Documentation. Fully implemented by Java
